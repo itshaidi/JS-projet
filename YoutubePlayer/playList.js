@@ -1,13 +1,13 @@
 //youtube影片ID
 var playList = [
-    "pIMxN6Ep9-k",
-    "fS-aC4zCQmE",
-    "v0_cXepCVgg"
+    "r4jmbpcvjkA",
+    "QL9_csMcwF4",
+    "q9gpJVTn8UE"
 ];
 
 //播放起迄秒數
 var playTime = [
-    [1,216],
-    [21,305],
-    [35,290]
+    [2,116],
+    [18,210],
+    [5,105]
 ];
